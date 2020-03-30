@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cyberfriends/static/css/main.7583647a.chunk.css",
+    "main.js": "/cyberfriends/static/js/main.f8b46457.chunk.js",
+    "main.js.map": "/cyberfriends/static/js/main.f8b46457.chunk.js.map",
+    "runtime-main.js": "/cyberfriends/static/js/runtime-main.19bf984d.js",
+    "runtime-main.js.map": "/cyberfriends/static/js/runtime-main.19bf984d.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/cyberfriends/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.f36469cf.chunk.js": "/cyberfriends/static/js/2.f36469cf.chunk.js",
+    "static/js/2.f36469cf.chunk.js.map": "/cyberfriends/static/js/2.f36469cf.chunk.js.map",
+    "index.html": "/cyberfriends/index.html",
+    "precache-manifest.44e5073fe670eaf569ba160a1ff6cc7e.js": "/cyberfriends/precache-manifest.44e5073fe670eaf569ba160a1ff6cc7e.js",
+    "service-worker.js": "/cyberfriends/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/cyberfriends/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.7583647a.chunk.css.map": "/cyberfriends/static/css/main.7583647a.chunk.css.map",
+    "static/js/2.f36469cf.chunk.js.LICENSE.txt": "/cyberfriends/static/js/2.f36469cf.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/cyberfriends/static/media/Longstory.a6c26b3b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19bf984d.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.f36469cf.chunk.js",
+    "static/css/main.7583647a.chunk.css",
+    "static/js/main.f8b46457.chunk.js"
+  ]
+}
