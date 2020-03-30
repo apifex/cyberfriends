@@ -2,8 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './containers/App';
-//on va voire
-
 import 'tachyons';
 
 // import * as serviceWorker from './serviceWorker';
