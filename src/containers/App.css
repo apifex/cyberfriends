@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+@font-face {
+font-family: 'LongStory Regular';
+font-style: normal;
+font-weight: normal;
+src: local('LongStory Regular'), url('Longstory.woff') format('woff');
+}
+
+h1 { font-family:  'LongStory Regular';
+      font-weight: 200;
+      color: lightblue;
+
+}
