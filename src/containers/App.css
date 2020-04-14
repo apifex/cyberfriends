@@ -14,3 +14,18 @@ h1 { font-family:  'LongStory Regular';
       color: lightblue;
 
 }
+
+.searchbox {
+  
+  height: 30vh;
+  position: relative;
+  top: 0;
+  width: 100%;
+  border: 3px solid #73AD21;
+}
+
+.box {
+  position: relative;
+  margin-top: 1em;
+}
+

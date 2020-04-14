@@ -2,7 +2,8 @@ import React from 'react';
 
 const SearchBox = ({ searchListener }) => {
     return (
-        <div className='pa2'>
+        <div>
+            <h1 className= 'f1'>Cyber Friends</h1>
             <input 
                 className='bg-light-blue b--light-blue pa3 ba br2'
                 type='search' 
